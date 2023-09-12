@@ -65,7 +65,7 @@ To install this Django project, follow these steps:
 
 1- Clone the project repository to your local machine using the command:
 ```sh
-git clone https://github.com/alialaei110/IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor.git
+git clone https://github.com/Rohit-Pal-21/IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor
 ```
 2- Navigate to the project directory using the command:
 ```sh
